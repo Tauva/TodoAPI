@@ -12075,11 +12075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
+      "projectUniqueName": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
       "projectName": "ToDoAPI_ASP_CORE_Swagger",
-      "projectPath": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
+      "projectPath": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
       "packagesPath": "C:\\Users\\maxime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\obj\\",
+      "outputPath": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
