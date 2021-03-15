@@ -1,0 +1,14 @@
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\bin\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.deps.json
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\bin\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.runtimeconfig.json
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\bin\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.runtimeconfig.dev.json
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\bin\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.dll
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\bin\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.pdb
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.csprojAssemblyReference.cache
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.csproj.CoreCompileInputs.cache
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.RazorAssemblyInfo.cache
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.RazorAssemblyInfo.cs
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.AssemblyInfoInputs.cache
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.AssemblyInfo.cs
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.RazorTargetAssemblyInfo.cache
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.dll
+C:\Users\maxime\Documents\Ynov\archi Logicielle\ToDoAPI_ASP_CORE_Swagger\ToDoAPI_ASP_CORE_Swagger\obj\Debug\netcoreapp2.1\ToDoAPI_ASP_CORE_Swagger.pdb
