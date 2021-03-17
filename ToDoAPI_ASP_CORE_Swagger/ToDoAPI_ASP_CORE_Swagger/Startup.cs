@@ -34,9 +34,15 @@ namespace ToDoAPI_ASP_CORE_Swagger
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "TodoAPI", Version = "v1" });
             });
 
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+
             services.AddDbContext<TodoContext>(opt =>
                 opt.UseInMemoryDatabase("TodoList"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+        
+            services.AddDbContext<MyTodoItemDbContext>(options => 
+                options.UseSqlServer(Configuration.GetConnectionString("Default"), x => x.MigrationsAssembly("MyMusic.Data")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

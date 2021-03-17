@@ -12069,23 +12069,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maxime\\.nuget\\packages\\": {},
+    "C:\\Users\\Fred\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
+      "projectUniqueName": "c:\\Users\\Fred\\Documents\\GitHub\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
       "projectName": "ToDoAPI_ASP_CORE_Swagger",
-      "projectPath": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
-      "packagesPath": "C:\\Users\\maxime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxime\\Documents\\Ynov\\archi Logicielle\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\obj\\",
+      "projectPath": "c:\\Users\\Fred\\Documents\\GitHub\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger.csproj",
+      "packagesPath": "C:\\Users\\Fred\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Fred\\Documents\\GitHub\\TodoAPI\\ToDoAPI_ASP_CORE_Swagger\\ToDoAPI_ASP_CORE_Swagger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fred\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
