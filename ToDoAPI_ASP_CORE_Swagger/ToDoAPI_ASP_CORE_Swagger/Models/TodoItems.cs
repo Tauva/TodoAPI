@@ -10,5 +10,6 @@ namespace ToDoAPI_ASP_CORE_Swagger.Models
         public long Id { get; set; }
         public string Name { get; set; }
         public bool IsComplete { get; set; }
+        public object User { get; set; }
     }
 }
